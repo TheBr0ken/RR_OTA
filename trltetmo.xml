@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <trltetmo>
+            <Filename>RR-N-v5.8.2-20170411-trltetmo-Unofficial.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download the latest build">https://www.androidfilehost.com/?w=files&flid=152793</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View the latest changelog">https://raw.githubusercontent.com/ResurrectionRemix/android_vendor_resurrection/nougat/CHANGELOG.mkdn</ChangelogUrl>
+            <OpenGappsUrl
+                id="opengapps"
+                title="Open Gapps"
+                description="Download Open Gapps">http://opengapps.org</OpenGappsUrl>
+            <ExtrasUrl
+                id="extras"
+                title="Extras"
+                description="Download Extras">https://download.lineageos.org/extras</ExtrasUrl>
+        <trltetmo>
+    </Stable>
+</SlimOTA>
