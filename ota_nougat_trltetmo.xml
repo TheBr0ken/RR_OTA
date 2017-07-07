@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <trltetmo>
-            <Filename>RR-N-v5.8.2-20170411-trltetmo-Unofficial.zip</Filename>
+            <Filename>RR-N-v5.8.3-20170707-trltetmo-Unofficial</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
@@ -19,6 +19,6 @@
                 id="extras"
                 title="Extras"
                 description="Download Extras">https://download.lineageos.org/extras</ExtrasUrl>
-        <trltetmo>
+        </trltetmo>
     </Stable>
 </SlimOTA>
